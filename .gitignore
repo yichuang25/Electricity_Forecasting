@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+LD2011_2014.txt
+.DS_Store
