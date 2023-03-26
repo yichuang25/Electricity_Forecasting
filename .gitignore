@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 LD2011_2014.txt
 .DS_Store
+ELC_12-14_15min_raw.pkl
+Data/
