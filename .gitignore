@@ -130,4 +130,6 @@ dmypy.json
 LD2011_2014.txt
 .DS_Store
 ELC_12-14_15min_raw.pkl
-Data/
+ELC_12-14_15min.pkl
+ELC_12-14_15min_imputed.pkl
+LD2011_2014.pkl
